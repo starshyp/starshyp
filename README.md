@@ -2,7 +2,7 @@
 
 Repos are private, please send a GitHub handle if you would like a view.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=starshyp&count_private=true&show_icons=true&include_all_commits=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=starshyp&count_private=true&show_icons=true&include_all_commits=true&hide=stars,contribs)
 
 [![Top Langs](https://github-readme-stats-qg13btg7t-starshyp.vercel.app/api/top-langs/?username=starshyp&layout=compact&langs_count=10&exclude_repo=rocket,starshyp-Rocket_Elevators_Information_System,Rocket_Elevators_Information_System,RocketElevatorsDigitalPresence)](https://github-readme-stats-qg13btg7t-starshyp.vercel.app/api/top-langs/?username=starshyp&layout=compact&langs_count=10&exclude_repo=rocket,starshyp-Rocket_Elevators_Information_System,Rocket_Elevators_Information_System,RocketElevatorsDigitalPresence)
 
