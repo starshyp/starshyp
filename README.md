@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Repos are private, please send a GitHub handle if you would like a view.
+
 <!--
 **starshyp/starshyp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
