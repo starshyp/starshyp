@@ -4,7 +4,7 @@ Repos are private, please send a GitHub handle if you would like a view.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=starshyp&count_private=true&show_icons=true)
 
-[![Top Langs](https://github-readme-stats-qg13btg7t-starshyp.vercel.app/api/top-langs/?username=starshyp&layout=compact&langs_count=10&exclude_repo=rocket)](https://github-readme-stats-qg13btg7t-starshyp.vercel.app/api/top-langs/?username=starshyp&layout=compact&langs_count=10&exclude_repo=rocket)
+[![Top Langs](https://github-readme-stats-qg13btg7t-starshyp.vercel.app/api/top-langs/?username=starshyp&layout=compact&langs_count=10&exclude_repo=rocket,starshyp-Rocket_Elevators_Information_System,Rocket_Elevators_Information_System,RocketElevatorsDigitalPresence)](https://github-readme-stats-qg13btg7t-starshyp.vercel.app/api/top-langs/?username=starshyp&layout=compact&langs_count=10&exclude_repo=rocket,starshyp-Rocket_Elevators_Information_System,Rocket_Elevators_Information_System,RocketElevatorsDigitalPresence)
 
 ![Astronaut](https://raw.githubusercontent.com/jinliming2/jinliming2/master/astronaut.svg)
 
