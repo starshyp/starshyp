@@ -6,7 +6,7 @@ Repos are private, please send a GitHub handle if you would like a view.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starshyp&layout=compact&count_private=true)](https://github.com/starshyp/github-readme-stats)
 
-![Astronaut](https://raw.githubusercontent.com/starshyp/starshyp/master/astronaut.svg)
+![Astronaut](https://raw.githubusercontent.com/jinliming2/jinliming2/master/astronaut.svg)
 
 <!--
 **starshyp/starshyp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
