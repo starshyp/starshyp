@@ -2,6 +2,8 @@
 
 Repos are private, please send a GitHub handle if you would like a view.
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=starshyp)
+
 <!--
 **starshyp/starshyp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
