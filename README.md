@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Most repos are set to private, please send a GitHub handle if you would like a view.
+As you browse through some of my projects, please note links including API functionality may no longer be working as I paused the cloud hosting to prevent costs.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=starshyp&count_private=true&show_icons=true&include_all_commits=true&hide=stars,contribs,issues,prs)
 
