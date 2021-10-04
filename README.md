@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Repos are private, please send a GitHub handle if you would like a view.
+Most repos are set to private, please send a GitHub handle if you would like a view.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=starshyp&count_private=true&show_icons=true&include_all_commits=true&hide=stars,contribs,issues,prs)
 
