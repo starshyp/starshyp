@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-As you browse through my repos, please note some links including API functionality may no longer be working as I paused the cloud hosting to prevent further costs to my bootcamp projects.
+As you browse through my repos, please note some links including API functionality may no longer be working as I paused the cloud hosting to prevent further costs from my bootcamp projects.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=starshyp&count_private=true&show_icons=true&include_all_commits=true&hide=stars,contribs,issues,prs)
 
